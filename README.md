@@ -1,17 +1,11 @@
 # Selected presentations
 
-## 2024
-
-- PHYSTAT - Statistics meets Machine Learning, London, United Kingdom: [Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics](2024/phystat_lgatr_2024.pdf)
-- EuCAIFCon 2024, Amsterdam, Netherlands: [LHC Event Generation with JetGPT](2024/eucaifcon_jetgpt_2024.pdf)
-- Active Training Course "Advanced Deep Learning", Bernhäuser Forst, Germany: [Lecture on Transformers](2024/erum_lecture_2024.pdf)
-
-## 2023
-
-- Workshop on Machine Learning and High-Energy Physics, Wien, Austria: [High Multiplicity with JetGPT](2023/gluehwien_jetgpt_2023.pdf)
-- ML4Jets2023, Hamburg, Germany: [High Multiplicity with JetGPT](2023/ml4jets_jetgpt_2023.pdf)
-- IRN Terascale, Marseille, France: [High Multiplicity with JetGPT](2023/terascale_jetgpt_2023.pdf)
-
-## 2022
-
-- Young Theorists Forum 2022, Durham, United Kingdom: [Axion-Higgs Portal](2022/ytf_axionhiggs_2022.pdf)
+| Date | Event | Location | Type | Title |
+| :---: | :--- | :---: | :---: | :--- |
+| Sep 2024 | [PHYSTAT - Statistics meets Machine Learning](https://indico.cern.ch/event/1407421/) | London, United Kingdom | Talk | [Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics](2024/phystat_lgatr_2024.pdf) |
+| May 2024 | [Active Training Course "Advanced Deep Learning"](https://indico.desy.de/event/40560/) | Bernhäuser Forst, Germany | Lecture | [Lecture on Transformers](2024/erum_lecture_2024.pdf) |
+| May 2024 | [EuCAIFCon 2024](https://indico.nikhef.nl/event/4875/) | Amsterdam, Netherlands | Poster | [LHC Event Generation with JetGPT](2024/eucaifcon_jetgpt_2024.pdf) |
+| Dec 2023 | [Workshop on Machine Learning and High-Energy Physics](https://indico.cern.ch/event/1311972/) | Wien, Austria | Talk | [High Multiplicity with JetGPT](2023/gluehwien_jetgpt_2023.pdf) |
+| Nov 2023 | [ML4Jets2023](https://indico.cern.ch/event/1253794/) | Hamburg, Germany | Talk |  [High Multiplicity with JetGPT](2023/ml4jets_jetgpt_2023.pdf) |
+| Oct 2023 | [IRN Terascale](https://indico.in2p3.fr/event/30546/) | Marseille, France |  Talk | [High Multiplicity with JetGPT](2023/terascale_jetgpt_2023.pdf) |
+| Dec 2022 | [Young Theorists Forum 2022](https://conference.ippp.dur.ac.uk/event/1141/) | Durham, United Kingdom | Talk | [Axion-Higgs Portal](2022/ytf_axionhiggs_2022.pdf) |
