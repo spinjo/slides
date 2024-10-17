@@ -2,6 +2,7 @@
 
 | Date | Event | Location | Type | Title |
 | :---: | :--- | :---: | :---: | :--- |
+| Oct 2024 | ML Journal Club, RWTH Aachen | Remote | Talk | [Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics](2024/aachen_lgatr_2024.pdf) |
 | Sep 2024 | [Young Scientists Meeting of the CRC TRR 257](https://indico.scc.kit.edu/event/4479/) | Karlsruhe, Germany | Talk | [Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics](2024/crcys_lgatr_2024.pdf) |
 | Sep 2024 | [PHYSTAT - Statistics meets Machine Learning](https://indico.cern.ch/event/1407421/) | London, United Kingdom | Talk | [Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics](2024/phystat_lgatr_2024.pdf) |
 | May 2024 | [Active Training Course "Advanced Deep Learning"](https://indico.desy.de/event/40560/) | Bernhäuser Forst, Germany | Lecture | [Lecture on Transformers](2024/erum_lecture_2024.pdf) |
