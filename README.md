@@ -2,7 +2,8 @@
 
 | Date | Event | Location | Type | Title |
 | :---: | :--- | :---: | :---: | :--- |
-| Dec 2024 | [Glühwein Workshop](https://indico.scc.kit.edu/event/4744/) | Karlsruhe, Germany| Talk| [L-GATr for HEP](2024/gluhwein_lgatr_2024.pdf) |
+| Jan 2025 | [COMETA Colloquium](https://indico.cern.ch/event/1498937/) | Remote | Talk| [L-GATr for HEP](2025/cometa_lgatr_2025.pdf) |
+| Dec 2024 | [Glühwein Workshop](https://indico.scc.kit.edu/event/4744/) | Karlsruhe, Germany | Talk| [L-GATr for HEP](2024/gluhwein_lgatr_2024.pdf) |
 | Dec 2024 | [NeurIPS 2024](https://neurips.cc/virtual/2024/poster/94796) | Vancouver, Canada | Poster | [L-GATr for HEP](2024/neurips_lgatr_2024.pdf) |
 | Nov 2024 | ATLAS Flavour Tagging Seminar | Remote | Talk | [Jet Tagging with L-GATr](2024/atlasftag_lgatr_2024.pdf) |
 | Nov 2024 | [ML4Jets 2024](https://indico.cern.ch/event/1386125/) | Paris, France | Talk | [Event Generation with L-GATr](2024/ml4jets_lgatr_2024.pdf) |
