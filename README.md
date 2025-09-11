@@ -2,8 +2,10 @@
 
 | Date | Event | Location | Type | Title |
 | :---: | :--- | :---: | :---: | :--- |
+| September 2025 | [ACAT 2025](https://indico.cern.ch/event/1488410/) | Hamburg, Germany | Poster | [Extrapolating Jet Radiation](2025/acat_extrapolation_2025.pdf) |
+| September 2025 | [MIAPbP Workshop](https://indico.ph.tum.de/event/7906/) | Munich, Germany | Talk | [Transformers and Symmetries](2025/miabpb_symmetries_2025.pdf) |
 | August 2025 | [IAIFI Summer Workshop](https://iaifi.org/past-workshops.html) | Boston, United States | Talk | [LLoCa](2025/iaifi_lloca_2025.pdf) |
-| July 2025 | IPPP Seminar | Durham, United Kingdom | Talk | [Neural Networks meet Lorentz Symmetry](2025/ippp_lorentz_2025.pdf)
+| July 2025 | IPPP Seminar | Durham, United Kingdom | Talk | [Neural Networks meet Lorentz Symmetry](2025/ippp_lorentz_2025.pdf) |
 | May 2025 | [IRN Terascale @ IPHC Strasbourg](https://indico.in2p3.fr/event/35622) | Strasbourg, France | Talk | [L-GATr for HEP](2025/IRN_lgatr_2025.pdf) |
 | Jan 2025 | [COMETA Colloquium](https://indico.cern.ch/event/1498937/) | Remote | Talk| [L-GATr for HEP](2025/cometa_lgatr_2025.pdf) |
 | Dec 2024 | [Glühwein Workshop](https://indico.scc.kit.edu/event/4744/) | Karlsruhe, Germany | Talk| [L-GATr for HEP](2024/gluhwein_lgatr_2024.pdf) |
