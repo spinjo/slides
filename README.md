@@ -2,6 +2,9 @@
 
 | Date | Event | Location | Type | Title |
 | :---: | :--- | :---: | :---: | :--- |
+| Feb 2026 | IPPP Internal Seminar | Durham, United Kingdom| Talk | [Physics-informed ML](2026/ippp_physics_2026.pdf) |
+| Feb 2026 | CP3 Seminar | Louvain-la-Neuve, Belgium | Talk | [Lorentz-equivariant Transformers](2026/cp3_equivariance_2026.pdf) |
+| Feb 2026 | [MadGraph Workshop 2026](https://indico.cern.ch/event/1594393) | Heidelberg, Germany | Talk | [Lorentz-equivariant Transformers](2026/madgraph_equivariance_2026.pdf) |
 | Dec 2025 | [NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/120083) | San Diego, United States | Poster | [LLoCa](2025/neurips_lloca_2025.pdf) |
 | Sep 2025 | [ACAT 2025](https://indico.cern.ch/event/1488410/) | Hamburg, Germany | Poster | [Extrapolating Jet Radiation](2025/acat_extrapolation_2025.pdf) |
 | Sep 2025 | [MIAPbP Workshop](https://indico.ph.tum.de/event/7906/) | Munich, Germany | Talk | [Transformers and Symmetries](2025/miabpb_symmetries_2025.pdf) |
