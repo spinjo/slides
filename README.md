@@ -2,6 +2,7 @@
 
 | Date | Event | Location | Type | Title |
 | :---: | :--- | :---: | :---: | :--- |
+| Apr 2026 | [Corfu2026 Workshop on Future Accelerators](https://indico.cern.ch/event/1657382/) | Corfu, Greece | Talk | [Lorentz-equivariant networks](2026/corfu_equivariance_2026.pdf) |
 | Feb 2026 | IPPP Internal Seminar | Durham, United Kingdom| Talk | [Physics-informed ML](2026/ippp_physics_2026.pdf) |
 | Feb 2026 | CP3 Seminar | Louvain-la-Neuve, Belgium | Talk | [Lorentz-equivariant Transformers](2026/cp3_equivariance_2026.pdf) |
 | Feb 2026 | [MadGraph Workshop 2026](https://indico.cern.ch/event/1594393) | Heidelberg, Germany | Talk | [Lorentz-equivariant Transformers](2026/madgraph_equivariance_2026.pdf) |
